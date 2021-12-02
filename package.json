@@ -1,0 +1,17 @@
+{
+  "name": "get-host-infojs",
+  "version": "1.0.0",
+  "description": "This i a set of APIs to retrive some host info",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlo Centofanti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "nodemon": "^2.0.15"
+  }
+}
