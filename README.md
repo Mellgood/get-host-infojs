@@ -20,11 +20,11 @@ from which host
 Rest APIs are available under: **/api/v1/env/** and are:
 
 - /api/v1/env/hostname
-    - **GET**
+  - **GET**
         - Returns the hostname of the host where the application is running on
 - /api/v1/env/localipaddr
-    - **GET**
-        - Returns the local IP address of the host where the application is running on
+  - **GET**
+    - Returns the local IP address of the host where the application is running on
 - /api/v1/env/localtime
-    - **GET**
+  - **GET**
         - Returns the local Time of the host where the application is running on
